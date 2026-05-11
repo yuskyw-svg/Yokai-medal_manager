@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "妖怪メダルコレクション管理",
+  "version": "1.0.0",
+  "description": "妖怪メダル大辞典の所持状態を管理する拡張機能",
+  "permissions": [
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://toy.bandai.co.jp/ja/series/youkai/youkai_ziten/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "css": [
+        "style.css"
+      ]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["data/medals.json"],
+      "matches": ["https://toy.bandai.co.jp/*"]
+    }
+  ]
+}
