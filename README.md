@@ -9,6 +9,6 @@ https://toy.bandai.co.jp/ja/series/youkai/youkai_ziten/ </br>
 yusk.yw@gmail.com <br>
 にお問い合わせください。 <br>
 企画・作成　つばきチャンネル <br>
-https://www.youtube.com/ @%E3%81%A4%E3%81%B0%E3%81%8D%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB-YW <br>
+https://www.youtube.com/@%E3%81%A4%E3%81%B0%E3%81%8D%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB-YW <br>
 discordでも対応しています <br>
 https://discord.gg/zMGNHzSG8U <br>
