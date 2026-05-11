@@ -1,5 +1,4 @@
-# Yokai-medal_manager
-
+# Yokai-medal_manager<br>
 https://toy.bandai.co.jp/ja/series/youkai/youkai_ziten/
 このURL専用のgoogle chromeの拡張機能です。
 主な機能としては、妖怪メダルを持っているかどうかの管理、妖怪メダルを検索するためのフィルター、そしてフィルター機能のみを使用可能にできる拡張機能のオン、オフボタンです。
